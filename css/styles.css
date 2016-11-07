@@ -286,40 +286,6 @@
             background-color: rgb(240, 232, 230); 
             background-size: auto; 
         }
-        .silex-id-1439833713274-53 {
-            width: 800px; 
-            top: 960px; 
-            left: 72px; 
-            background-color: transparent; 
-            background-size: auto; 
-            min-height: 547px; 
-        }
-        .silex-id-1439833713071-51 {
-            z-index: 300; 
-            top: 353px; 
-            width: 711px; 
-            left: 21px; 
-            border-top-color: rgb(255, 255, 255); 
-            border-right-color: rgb(255, 255, 255); 
-            border-bottom-color: rgb(255, 255, 255); 
-            border-left-color: rgb(255, 255, 255); 
-            border-image-source: none; 
-            background-color: transparent; 
-            min-height: 69px; 
-        }
-        .silex-id-1439833713173-52 {
-            z-index: 300; 
-            top: 236px; 
-            width: 760px; 
-            left: 5px; 
-            border-top-color: rgb(255, 255, 255); 
-            border-right-color: rgb(255, 255, 255); 
-            border-bottom-color: rgb(255, 255, 255); 
-            border-left-color: rgb(255, 255, 255); 
-            border-image-source: none; 
-            background-color: transparent; 
-            min-height: 192px; 
-        }
         .silex-id-1439833714283-63 {
             width: 100px; 
             top: 2204px; 
@@ -347,16 +313,6 @@
             left: 491px; 
             background-color: transparent; 
             min-height: 126px; 
-        }
-        .silex-id-1439841544265-13 {
-            width: 100px; 
-            top: 855px; 
-            background-color: rgb(76, 76, 76); 
-            background-size: cover; 
-            left: 0px; 
-            min-height: 700px; 
-            background-image: url('../assets/14141518_1241476939229820_8803286495775809459_n.jpg'); 
-            background-position: center center; 
         }
         .silex-id-1439833712466-45 {
             z-index: -1; 
@@ -420,13 +376,47 @@
         .silex-id-1439841544265-12 {
             width: 1600px; 
             top: 50px; 
-            background-image: url('../assets/14212572_1244259748951539_1870563328602114482_n.jpg'); 
+            background-image: url('../assets/13-A_result.jpg'); 
             background-color: rgba(255,255,255,0.5215686274509804); 
             background-size: cover; 
             left: 0px; 
             background-attachment: fixed; 
-            min-height: 1028px; 
+            min-height: 2177px; 
             background-position: top left; 
             background-repeat: no-repeat; 
+        }
+        .silex-id-1439833713173-52 {
+            z-index: 300; 
+            top: 1899px; 
+            width: 760px; 
+            left: 876px; 
+            border-top-color: rgb(255, 255, 255); 
+            border-right-color: rgb(255, 255, 255); 
+            border-bottom-color: rgb(255, 255, 255); 
+            border-left-color: rgb(255, 255, 255); 
+            border-image-source: none; 
+            background-color: transparent; 
+            min-height: 192px; 
+        }
+        .silex-id-1439833713274-53 {
+            width: 800px; 
+            top: 1549px; 
+            left: 421px; 
+            background-color: transparent; 
+            background-size: auto; 
+            min-height: 547px; 
+        }
+        .silex-id-1439833713071-51 {
+            z-index: 300; 
+            top: 353px; 
+            width: 711px; 
+            left: 21px; 
+            border-top-color: rgb(255, 255, 255); 
+            border-right-color: rgb(255, 255, 255); 
+            border-bottom-color: rgb(255, 255, 255); 
+            border-left-color: rgb(255, 255, 255); 
+            border-image-source: none; 
+            background-color: transparent; 
+            min-height: 69px; 
         }
     
